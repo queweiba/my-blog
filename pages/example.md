@@ -1,10 +1,17 @@
 ---
-title: Example Page
-nav: Example
+title: haha
+nav: One
 nav_order: 1
 ---
 
 Write pages in Markdown.
+hahahahaha
+
+because you are silly
+
+## hahahah
+- teiejl
+- djlfdf
 
 ## Heading Two 
 
