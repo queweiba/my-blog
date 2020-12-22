@@ -2,6 +2,7 @@
 title: About This Template
 nav: About
 nav_order: 2
+layout: page
 ---
 this is some example content on this page.
 
