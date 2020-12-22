@@ -29,7 +29,7 @@ url: https://queweiba.github.io
 # baseurl is your github repository's name prefixed with a /
 baseurl: /copy_template
 # location of code, the full url to your github repository
-source-code: https://github.com/thecdil/bootstrap-template
+source-code: https://github.com/queweiba/copy_template
 
 ##########
 # GOOGLE ANALYTICS [optional!]
